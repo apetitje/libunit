@@ -1,0 +1,26 @@
+# project specific
+CMakeLists.txt
+
+# logs
+*.log
+
+# C program
+*.out
+*.a
+*.o
+*.d
+.deps
+
+# editors
+.*.swp
+
+# config
+.idea/
+cmake-build-debug/
+
+# other
+._.DS_Store
+.DS_Store
+.nfs.*
+*.Tdcmake-build-debug
+
